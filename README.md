@@ -10,5 +10,7 @@ Development Wiki: https://github.com/AquaPhoenix101/EarthDefender_Development/wi
 Developer Contact:
 
 Email - jared.eyler@gmail.com
+
 Itch.io - https://aquaphoenix101.itch.io
+
 Linked-In - www.linkedin.com/in/jared-eyler-aquaphoenix101
